@@ -1,0 +1,6 @@
+{
+  "name": "Public Speaking Analyzer",
+  "description": "Student project application to evaluate public speaking practice, analyze confidence, clarity, and vocabulary, compare sessions, and identify weak areas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
